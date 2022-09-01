@@ -1,6 +1,6 @@
 # Capstone1
 
-## A Monocular Camera Depth Estimation Approximation using Deep learning
+# A Monocular Camera Depth Estimation Approximation using Deep learning
 
 Data is simluated using focal length, vertical view angle, horizontal view angle and pixel density in both vertical and horizontal as shown below :
 
@@ -12,18 +12,13 @@ Data is simluated using focal length, vertical view angle, horizontal view angle
 
 ![image](https://user-images.githubusercontent.com/77930435/187906631-377e0c1f-ba86-41b0-885f-64e827f99b58.png)
 
-## Implementation
+# Implementation
 
 ![image](https://user-images.githubusercontent.com/77930435/187906705-1f2e3129-447b-4faa-b9e6-774507aaca0a.png)
 
 # Test and validation result
 
-	            MAE	           RMSE
-	       Train	Test	   Train	Test
-Model 1	2.0245	1.8609	2.6184	2.4958
-Model 2	0.5060	0.5226	0.6550	0.6694
-Model 3	0.1605	0.1675	0.2327	0.2494
-Model 4	0.0623	0.0630	0.0837	0.0839
+![image](https://user-images.githubusercontent.com/77930435/187907478-0c7d1ef6-6e3b-4e7a-a157-0546bdc0a905.png)
 
 # Conclusion
 
